@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: _docs
+
+website:
+  title: "CSRP"
+  site-url: "https://lilalian.github.io/csrp-test/"
+  description: "Create delightful software with Jupyter Notebooks"
+  repo-url: "https://github.com/lilalian/csrp-test"

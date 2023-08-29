@@ -1,0 +1,43 @@
+project:
+  type: website
+  preview:
+    # port: 3000
+    browser: false
+
+format:
+  html:
+    theme: cosmo
+    css: index.css
+    toc: true
+    toc-depth: 4
+    
+
+website:
+  twitter-card: true
+  open-graph: true
+  repo-actions: [issue]
+  favicon: ./images/favicon.png
+  navbar:
+    background: primary
+    search: true
+    collapse-below: lg
+    left:
+      - text: "AIMS"
+        menu:
+          - aims/Aim1.qmd
+          - aims/Aim2.qmd
+          - aims/Aim3.qmd
+          - aims/Aim4.qmd
+      - data.qmd
+      - text: "ALGORITHMS"
+        menu:
+          - algorithms/1_survmaxmin.qmd
+          - algorithms/2_ARCH.qmd
+          - algorithms/3_KESER.qmd
+      - methodology.qmd
+    right:
+      - icon: github
+        href: "https://github.com/lilalian/csrp-test"
+
+metadata-files: [csrp.yml]
+
