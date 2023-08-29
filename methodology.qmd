@@ -3,4 +3,5 @@ title: "METHODOLOGY"
 jupyter: python3
 ---
 
-Please complete the summary of the data in this file.
+
+Please complete the details in `methodology.qmd`.

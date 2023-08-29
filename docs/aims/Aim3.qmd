@@ -3,6 +3,7 @@ title: "Aim 3: Clinical Prediction"
 jupyter: python3
 ---
 
+## Aim 3: Develop and evaluate predictive algorithms
 
 The MC has extensive expertise in statistical and ML with high dimensional EHR and observational data. The predictive analytics team will work closely with the center faculty and junior researchers to develop innovative prediction modeling strategies for survival risk and treatment response that can be used to both address the needs of the research projects and to optimize risk prediction for future studies. We will develop strategies for (1) feature selection and engineering; (2) suicide risk prediction; (3) predicting heterogeneous treatment effects via causal modeling; (4) semi-supervised learning strategies to recalibrate risk estimates; and (5) co-training strategies to enhance risk prediction for under-represented populations.
 

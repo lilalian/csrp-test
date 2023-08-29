@@ -2,5 +2,3 @@
 title: "Aim 4: Advances Dissemination"
 jupyter: python3
 ---
-
-## Aim 4: Advances Dissemination

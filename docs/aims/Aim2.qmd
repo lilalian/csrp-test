@@ -2,5 +2,3 @@
 title: "Aim 2: Research Studies"
 jupyter: python3
 ---
-
-Please add description in `/aims/Aim2.qmd`

@@ -2,5 +2,3 @@
 title: "Aim 1: Data and Apps"
 jupyter: python3
 ---
-
-Please add description in `/aims/Aim1.qmd`

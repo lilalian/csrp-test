@@ -7,9 +7,7 @@ project:
 format:
   html:
     theme: cosmo
-    css: index.css
-    toc: true
-    toc-depth: 4
+    css: styles.css
     
 
 website:
@@ -17,6 +15,21 @@ website:
   open-graph: true
   repo-actions: [issue]
   favicon: ./images/favicon.png
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "AIMS"
+        contents: aims/*.qmd
+      - section: "DATA"
+        contents:
+          - data.qmd
+      - section: "ALGORITHMS"
+        contents: algorithms/*.qmd
+      - section: "METHODOLOGY"
+        contents: 
+          - methodology.qmd
   navbar:
     background: primary
     search: true

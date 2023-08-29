@@ -11,7 +11,7 @@
     "href": "methodology.html",
     "title": "METHODOLOGY",
     "section": "",
-    "text": "Please complete the summary of the data in this file."
+    "text": "Please complete the details in methodology.qmd."
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "algorithms/2_ARCH.html",
     "title": "ARCH",
     "section": "",
-    "text": "Click here to see the web app."
+    "text": "Please add some description in algorithms/*.qmd\n\nClick here to see the web app."
   },
   {
     "objectID": "aims/Aim3.html",
@@ -33,5 +33,19 @@
     "title": "Aim 3: Clinical Prediction",
     "section": "",
     "text": "The MC has extensive expertise in statistical and ML with high dimensional EHR and observational data. The predictive analytics team will work closely with the center faculty and junior researchers to develop innovative prediction modeling strategies for survival risk and treatment response that can be used to both address the needs of the research projects and to optimize risk prediction for future studies. We will develop strategies for (1) feature selection and engineering; (2) suicide risk prediction; (3) predicting heterogeneous treatment effects via causal modeling; (4) semi-supervised learning strategies to recalibrate risk estimates; and (5) co-training strategies to enhance risk prediction for under-represented populations.\nAim 3：开发和评估预测算法\n方法核心在高维度电子健康记录（EHR）和观测数据方面拥有丰富的统计和机器学习专业知识。预测分析团队将与中心的教职人员和初级研究人员紧密合作，开发创新的预测建模策略，用于生存风险和治疗反应，既可满足研究项目的需求，也可优化未来研究的风险预测。我们将制定以下策略：（1）特征选择和工程；（2）自杀风险预测；（3）通过因果建模预测异质治疗效果；（4）半监督学习策略以重新校准风险估计；以及（5）协同训练策略以增强对弱势人群的风险预测。"
+  },
+  {
+    "objectID": "aims/Aim1.html",
+    "href": "aims/Aim1.html",
+    "title": "Aim 1: Data and Apps",
+    "section": "",
+    "text": "Please add description in /aims/Aim1.qmd"
+  },
+  {
+    "objectID": "aims/Aim2.html",
+    "href": "aims/Aim2.html",
+    "title": "Aim 2: Research Studies",
+    "section": "",
+    "text": "Please add description in /aims/Aim2.qmd"
   }
 ]

@@ -1,0 +1,10 @@
+---
+title: "survmaxmin"
+jupyter: python3
+---
+
+
+![](/images/survmaxmin.png)
+
+
+Click [here](https://shiny.parse-health.org/SurvMaximin/) to see the web app.
