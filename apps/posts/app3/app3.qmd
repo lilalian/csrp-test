@@ -1,0 +1,31 @@
+---
+title: "Title of app3"
+description: |
+  Description of app3.      
+categories:
+  - Models
+  - Python
+  - Medical Research
+author: Name
+date: 05/18/2023
+toc: false
+image: images/app3.jpg
+   
+---
+
+Please complete the details in `apps/post/app3/app3.qmd`.
+
+
+::: {.article-btn}
+[Click to view the app](../../../index.qmd)
+:::
+
+::: {.further-info}
+::: grid
+::: {.g-col-12 .g-col-md-12}
+About the author
+: Complete in `app3.qmd`.
+
+:::
+:::
+:::
