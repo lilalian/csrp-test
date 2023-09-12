@@ -1,4 +1,0 @@
----
-title: "Aim 2: Research Studies"
-jupyter: python3
----
