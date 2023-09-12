@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  # output-dir: docs
 
 website:
   title: "GREAD-Scalable and Generalizable Real-world Evidence on Unstructured Efficacy and Adverse Effect Endpoints for Chronic Diseases"
