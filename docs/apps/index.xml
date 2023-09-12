@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>GREAD-Scalable and Generalizable Real-world Evidence on Unstructured Efficacy and Adverse Effect Endpoints for Chronic Diseases</title>
+<link>https://celehs.github.io/GREAD/apps/index.html</link>
+<atom:link href="https://celehs.github.io/GREAD/apps/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://celehs.github.io/GREAD/images/gread-image.jpg</url>
+<title>GREAD-Scalable and Generalizable Real-world Evidence on Unstructured Efficacy and Adverse Effect Endpoints for Chronic Diseases</title>
+<link>https://celehs.github.io/GREAD/apps/index.html</link>
+</image>
+<generator>quarto-1.2.335</generator>
+<lastBuildDate>Wed, 17 May 2023 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>Title of app3</title>
+  <dc:creator>Name</dc:creator>
+  <link>https://celehs.github.io/GREAD/apps/posts/app3/app3.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Please complete the details in <code>apps/post/app3/app3.qmd</code>.</p>
+<div class="article-btn">
+<p><a href="../../../index.html">Click to view the app</a></p>
+</div>
+<div class="further-info">
+<div class="grid">
+<div class="g-col-12 g-col-md-12">
+<dl>
+<dt>About the author</dt>
+<dd>
+Complete in <code>app3.qmd</code>.
+</dd>
+</dl>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Models</category>
+  <category>Python</category>
+  <category>Medical Research</category>
+  <guid>https://celehs.github.io/GREAD/apps/posts/app3/app3.html</guid>
+  <pubDate>Wed, 17 May 2023 16:00:00 GMT</pubDate>
+  <media:content url="https://celehs.github.io/GREAD/apps/posts/app3/images/app3.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Title of app2</title>
+  <dc:creator>Name</dc:creator>
+  <link>https://celehs.github.io/GREAD/apps/posts/app2/app2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Please complete the details in <code>apps/post/app2/app2.qmd</code>.</p>
+<div class="article-btn">
+<p><a href="../../../index.html">Click to view the app</a></p>
+</div>
+<div class="further-info">
+<div class="grid">
+<div class="g-col-12 g-col-md-12">
+<dl>
+<dt>About the author</dt>
+<dd>
+Complete in <code>app2.qmd</code>.
+</dd>
+<dt>&lt;!– Site</dt>
+<dd>
+Click the <a href="link">link</a> to view the app. –&gt;
+</dd>
+</dl>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Medical Research</category>
+  <category>Diseases</category>
+  <guid>https://celehs.github.io/GREAD/apps/posts/app2/app2.html</guid>
+  <pubDate>Wed, 10 May 2023 16:00:00 GMT</pubDate>
+  <media:content url="https://celehs.github.io/GREAD/apps/posts/app2/images/app2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Title of app1</title>
+  <dc:creator>Name</dc:creator>
+  <link>https://celehs.github.io/GREAD/apps/posts/app1/app1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Please complete the details in <code>apps/post/app1/app1.qmd</code>.</p>
+<div class="article-btn">
+<p><a href="../../../index.html">Click to view the app</a></p>
+</div>
+<div class="further-info">
+<div class="grid">
+<div class="g-col-12 g-col-md-12">
+<dl>
+<dt>About the author</dt>
+<dd>
+Complete in <code>app1.qmd</code>.
+</dd>
+<dt>&lt;!– Site</dt>
+<dd>
+Click the <a href="link">link</a> to view the app. –&gt;
+</dd>
+</dl>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Diseases</category>
+  <category>Lab</category>
+  <category>Adverse Effect</category>
+  <guid>https://celehs.github.io/GREAD/apps/posts/app1/app1.html</guid>
+  <pubDate>Mon, 17 Apr 2023 16:00:00 GMT</pubDate>
+  <media:content url="https://celehs.github.io/GREAD/apps/posts/app1/images/app1.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,16 @@
+---
+title: "About us"
+---
+
+Edit in `about.qmd`. Or create folder `post` and more folders to show more details.
+
+::: {.pullquote-container}
+::: grid
+::: {.g-col-12 .g-col-lg-4}
+![**Christian**](images/christian.png){fig-alt="Photo of Christian" fig-align="left"}
+::: 
+::: {.g-col-12 .g-col-lg-4}
+![**Stephanie**](images/stephanie.png){fig-alt="Photo of Stephanie" fig-align="left"}
+::: 
+:::
+:::

@@ -1,0 +1,34 @@
+---
+title: "Title of app1"
+description: |
+  Description of app1, edit in `apps/post/app1/app1.qmd`.
+categories:
+  - Diseases
+  - Lab
+  - Adverse Effect
+author: Name
+date: 04/18/2023
+image: images/app1.jpg
+# image-alt: A crowd of people talking, with speech bubbles representing the different voices, digital art. Image created by Real World Data Science using Microsoft Bing Image Creator.
+toc: true
+---
+
+Please complete the details in `apps/post/app1/app1.qmd`.
+
+
+::: {.article-btn}
+[Click to view the app](../../../index.qmd)
+:::
+
+::: {.further-info}
+::: grid
+::: {.g-col-12 .g-col-md-12}
+About the author
+: Complete in `app1.qmd`.
+
+<!-- Site
+: Click the [link](link) to view the app. -->
+:::
+:::
+:::
+

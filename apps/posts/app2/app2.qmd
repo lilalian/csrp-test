@@ -1,0 +1,35 @@
+---
+title: Title of app2
+description: |
+  Description of app2.       
+categories:
+  - Medical Research
+  - Diseases
+author: Name
+date: 05/11/2023
+toc: false
+image: images/app2.jpg
+---
+
+
+Please complete the details in `apps/post/app2/app2.qmd`.
+
+
+::: {.article-btn}
+[Click to view the app](../../../index.qmd)
+:::
+
+::: {.further-info}
+::: grid
+::: {.g-col-12 .g-col-md-12}
+About the author
+: Complete in `app2.qmd`.
+
+<!-- Site
+: Click the [link](link) to view the app. -->
+:::
+:::
+:::
+
+
+

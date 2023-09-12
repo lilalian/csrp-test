@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About us",
+    "section": "",
+    "text": "Edit in about.qmd. Or create folder post and more folders to show more details.\n\n\n\n\n\n\nChristian\n\n\n\n\n\n\n\nStephanie"
+  },
+  {
+    "objectID": "aims/Aim1.html",
+    "href": "aims/Aim1.html",
+    "title": "Aim 1: Data",
+    "section": "",
+    "text": "Edit this page in aims/Aim1.qmd."
+  },
+  {
+    "objectID": "aims/Aim2.html",
+    "href": "aims/Aim2.html",
+    "title": "Aim 2: Research Studies",
+    "section": "",
+    "text": "Edit this page in aims/Aim2.qmd."
+  },
+  {
+    "objectID": "apps/posts/app1/app1.html",
+    "href": "apps/posts/app1/app1.html",
+    "title": "Title of app1",
+    "section": "",
+    "text": "Please complete the details in apps/post/app1/app1.qmd.\n\nClick to view the app\n\n\n\n\n\nAbout the author\n\nComplete in app1.qmd.\n\n<!– Site\n\nClick the link to view the app. –>"
+  },
+  {
+    "objectID": "apps/posts/app2/app2.html",
+    "href": "apps/posts/app2/app2.html",
+    "title": "Title of app2",
+    "section": "",
+    "text": "Please complete the details in apps/post/app2/app2.qmd.\n\nClick to view the app\n\n\n\n\n\nAbout the author\n\nComplete in app2.qmd.\n\n<!– Site\n\nClick the link to view the app. –>"
+  },
+  {
+    "objectID": "apps/posts/app3/app3.html",
+    "href": "apps/posts/app3/app3.html",
+    "title": "Title of app3",
+    "section": "",
+    "text": "Please complete the details in apps/post/app3/app3.qmd.\n\nClick to view the app\n\n\n\n\n\nAbout the author\n\nComplete in app3.qmd."
+  }
+]
