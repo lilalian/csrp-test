@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/latest-apps.html",
+    "items": [
+      "/apps/posts/app3/app3.html",
+      "/apps/posts/app2/app2.html",
+      "/apps/posts/app1/app1.html"
+    ]
+  },
+  {
+    "listing": "/apps/index.html",
+    "items": [
+      "/apps/posts/app3/app3.html",
+      "/apps/posts/app2/app2.html",
+      "/apps/posts/app1/app1.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/apps/posts/app3/app3.html",
+      "/apps/posts/app2/app2.html",
+      "/apps/posts/app1/app1.html"
+    ]
+  }
+]
