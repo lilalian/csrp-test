@@ -1,0 +1,16 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "/apps",
+      "!index.qmd"
+    ],
+    "apps\\index.qmd": [
+      "posts",
+      "!index.qmd"
+    ],
+    "latest-apps.qmd": [
+      "/apps",
+      "!index.qmd"
+    ]
+  }
+}

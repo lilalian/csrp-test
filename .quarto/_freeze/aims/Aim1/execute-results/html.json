@@ -1,0 +1,11 @@
+{
+  "hash": "acc1914a7029f4faae4af279e8cec4f8",
+  "result": {
+    "markdown": "---\ntitle: 'Aim 1: Data'\n---\n\n**Edit this page in `aims/Aim1.qmd`.**\n\n",
+    "supporting": [
+      "Aim1_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

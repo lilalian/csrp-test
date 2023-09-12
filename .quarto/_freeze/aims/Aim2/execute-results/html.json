@@ -1,0 +1,11 @@
+{
+  "hash": "8d22d06513847c72000cfc007722f03f",
+  "result": {
+    "markdown": "---\ntitle: 'Aim 2: Research Studies'\n---\n\n**Edit this page in `aims/Aim2.qmd`.**\n\n",
+    "supporting": [
+      "Aim2_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
