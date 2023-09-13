@@ -1,75 +1,63 @@
 project:
   type: website
-  # output-dir: docs
+  output-dir: docs
 
 website:
   title: "GREAD-Scalable and Generalizable Real-world Evidence on Unstructured Efficacy and Adverse Effect Endpoints for Chronic Diseases"
-  image: images/gread-image.jpg
+  image: images/gread-image.png
   favicon: images/gread-icon.jpg
   open-graph: true
   site-url: https://celehs.github.io/GREAD/
   repo-url: https://github.com/celehs/GREAD
   repo-actions: [issue]
   google-analytics: "G-1TTWB7YTR6"
+  sidebar:
+    style: "docked"
+    # search: false
+    contents:
+      - section: "AIMS"
+        contents: aims/*.qmd
+      - section: "DATA"
+        contents:
+          - data.qmd
+      - section: "ALGORITHMS"
+        contents: algorithms/*
+      - section: "METHOdOlOGY"
+        contents: 
+          - methodology.qmd
+      # - section: "ABOUT US"
+      #   contents: 
+      #     - about.qmd
   navbar:
     background: "#f0eeeb"
-    logo: images/gread-image.jpg
+    logo: images/gread-image.png
     logo-alt: "GREAD"
     title: false
     collapse-below: lg
-    right:
-      - apps/index.qmd
+    left:
       - text: "AIMS"
         menu:
           - aims/Aim1.qmd
           - aims/Aim2.qmd
-      - about.qmd
-      # - text: "About RWDS"
-      #   menu: 
-      #   - text: "Who we are"
-      #     href: about-rwds.qmd
-      #   - text: "How to contribute"
-      #     href: contributor-docs/call-for-contributions.qmd
-      #   - text: "Contact us"
-      #     href: contact.qmd
-  sidebar:
-   contents:
-    - apps/index.qmd
-    - section: "AIMS"
-      contents: aims/*.qmd
-    - about.qmd
+          - aims/Aim3.qmd
+          - aims/Aim4.qmd
+      - data.qmd
+      - text: "ALGORITHMS"
+        menu:
+          - algorithms/1_survmaxmin.qmd
+          - algorithms/2_ARCH.qmd
+          - algorithms/3_KESER.Rmd
+      - methodology.qmd
+      # - about.qmd
+    right:
+      - icon: github
+        href: "https://github.com/celehs/GREAD"
+    search: true
 
+metadata-files: [gread.yml]
 
-  page-navigation: true
+page-navigation: true
 
-  # back-to-top-navigation: false
-
-  page-footer:
-    background: "#000000"
-    # left: |
-    #   # Copyright &copy; 2023 [Royal Statistical Society](https://rss.org.uk/)
-    center:  
-      - href: https://github.com/celehs/GREAD
-        icon: github
-        aria-label: GitHub
-      # - href: https://twitter.com/rwdatasci
-      #   icon: twitter
-      #   aria-label: Twitter
-      # - href: https://fosstodon.org/@rwdatasci
-      #   icon: mastodon
-      #   aria-label: Mastodon
-      # - href: https://www.linkedin.com/showcase/rss-real-world-data-science
-      #   icon: linkedin
-      #   aria-label: LinkedIn
-      # - href: feeds.html
-      #   icon: rss
-      #   aria-label: RWDS rss
-    # right: |
-    #   [Terms & Conditions](/ts-and-cs.qmd)
-    # right: 
-    #   - href: https://github.com/celehs/GREAD
-    #     icon: github
-    #     aria-label: GitHub
 format:
   html:
     theme: [lux, gread.scss]
@@ -83,5 +71,5 @@ format:
 execute: 
   freeze: auto
 
-
+  
 

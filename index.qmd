@@ -4,44 +4,60 @@ page-layout: custom
 section-divs: false
 editor: source
 sidebar: true
-search: false
+# search: false
 description: | 
   Scalable and Generalizable Real-world Evidence on Unstructured Efficacy and Adverse Effect Endpoints for Chronic Diseases
-image: images/gread-image.jpg
-
-listing:
-  - id: latest-apps
-    contents: 
-    - /apps
-    - "!index.qmd"
-    sort: "date desc"
-    type: grid
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 3
-    feed: false
+image: images/gread-image.png
 
 toc: false
 ---
+
+<!-- <center>
+
+## Scalable and Generalizable Real-world Evidence 
+
+## on Unstructured Efficacy and Adverse Effect Endpoints
+
+## for Chronic Diseases
+
+</center> -->
+
+
 ::: {.content-container}
 ::: {.top-story .purple-background}
-<a href="aims/Aim1.qmd">
+
+<!-- <a href="app.qmd"> -->
 
 ::: grid
 
 ::: {.g-col-12 .g-col-lg-4 .top-story-text}
+
 ## Scalable and Generalizable Real-world Evidence on Unstructured Efficacy and Adverse Effect Endpoints for Chronic Diseases
-You could add more description.
+
+::: {.article-btn}
+[Click to view more](aims/Aim1.qmd)
+:::
+
+```{python}
+#| eval: false
+#| echo: false
+#| output: asis
+from loremipsum import get_sentences
+LoremIpsumText = get_sentences(2)
+for i in LoremIpsumText:
+    print(i, end=' ')
+```
+
 :::
 
 ::: {.g-col-12 .g-col-lg-8 .top-story-img}
-![](/images/mainchart.jpg)
+![](/images/network.jpg)
+<!-- <img src='/images/network.jpg'> -->
 :::
 
 :::
 
-</a>
+<!-- </a> -->
 
 :::
 :::
@@ -49,61 +65,65 @@ You could add more description.
 ::: {.header-text} 
 ::: {.content-container}
 ::: {.header-block}
-Welcome to the Landing Page of **GREAD**. Please edit this page in `index.qmd.`
+Welcome to the Landing Page of **GREAD**！
 :::
 :::
 :::
 
 ::: {.content-container}
 ::: {.listing-block}
-<a href="latest-apps.qmd">
 
-## Latest apps
+## Apps
 
-</a>
+::: {.pullquote-container}
+::: grid
 
-::: {#latest-apps}
+::: {.g-col-12 .g-col-lg-4}
+![**ARCH**](images/ARCH.png){fig-alt="Photo of ARCH" fig-align="left"}
+::: 
+
+::: {.g-col-12 .g-col-lg-4}
+![**Survmaxmin**](images/survmaxmin.png){fig-alt="Photo of survmaxmin" fig-align="left"}
+::: 
+
+::: {.g-col-12 .g-col-lg-4}
+![**Keser Network**](images/kesernetwork.png){fig-alt="Photo of kesernetwork" fig-align="left"}
+::: 
+
+:::
 :::
 
 :::
 :::
 
+
+<!-- 
 ::: {.pullout-text}
 ::: {.pullout-container}
 ::: {.pullout-block .black-background}
 ![](images/quote-purple.png){width="100px"}
 
-## Please add more contents in index.qmd.
-text...
+## Please add more contents in index.qmd. 
+
+::: {.h2}
+```{python}
+#| eval: true
+#| echo: false
+#| output: asis
+from loremipsum import get_sentences
+LoremIpsumText = get_sentences(8)
+for i in LoremIpsumText:
+    print(i)
+```
+
+:::
 
 ::: {.button}
-[Read more in Aims](aims/Aim1.qmd)
+[About us](about.qmd)
 :::
 
 :::
 :::
 :::
 
-::: {.content-container}
-::: {.listing-block}
-<a href="apps/index.qmd">
-
-:::
-:::
-
-</a> 
-
-
-
-::: {.footer-text}
-::: {.footer-container .black-background}
-::: {.footer-block}
-::: grid
-
-
-:::
-:::
-:::
-:::
-
-
+-->

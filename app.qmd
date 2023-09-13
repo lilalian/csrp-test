@@ -1,0 +1,38 @@
+---
+title: "APP"
+description: |
+  Description of app, edit in `app.qmd`.
+categories:
+  - Diseases
+  - Lab
+  - Adverse Effect
+author: Name
+date: 04/18/2023
+image: images/mainchart.jpg
+toc: true
+---
+
+Please complete the details in `app.qmd`.
+
+<!-- ![](/images/mainchart.jpg) -->
+
+```{python}
+#| eval: true
+#| echo: false
+#| output: asis
+from loremipsum import get_sentences
+LoremIpsumText = get_sentences(15)
+for i in LoremIpsumText:
+    print(i, end=' ')
+```
+
+::: {.article-btn}
+[Back to Landing Page](index.qmd)
+:::
+
+
+
+
+
+
+

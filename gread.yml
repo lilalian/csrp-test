@@ -1,0 +1,9 @@
+project:
+  output-dir: docs
+
+website:
+  title: "GREAD-Scalable and Generalizable Real-world Evidence on Unstructured Efficacy and Adverse Effect Endpoints for Chronic Diseases"
+  site-url: "https://celehs.github.io/GREAD/"
+  description: "Scalable and Generalizable Real-world Evidence on Unstructured Efficacy and Adverse Effect Endpoints for Chronic Diseases"
+  repo-branch: main
+  repo-url: "https://github.com/celehs/GREAD"

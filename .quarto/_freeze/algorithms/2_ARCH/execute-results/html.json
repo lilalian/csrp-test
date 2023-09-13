@@ -1,0 +1,11 @@
+{
+  "hash": "d87f39354df9206acecd10aaf7168644",
+  "result": {
+    "markdown": "---\ntitle: Automated Feature Selection\n---\n\n### ARCH\n\nARCH (Aggregated naRrative Codified Health records analysis) generates a large-scale\nknowledge graph for a comprehensive set of EHR codified and narrative features. It allows:\n\n- feature representation\\\n- information extraction\\\n- uncertainty quantification\n\nThe ARCH algorithm first derives embedding vectors from a co-occurrence matrix of all EHR concepts and then generates cosine similarities along with associated p-values to measure the strength of relatedness between clinical features with statistical certainty quantification. In the final step, ARCH performs a sparse embedding regression to remove indirect linkage between entity pairs. \n\n<img  class=\"centered-image\" src='/images/ARCH.png' width=\"100%\" height=\"100%\"> \n\n\nClick [here](https://app.parse-health.org/ARCH/) to load the ARCH web app.\n\nYou can also find the KESER app [here](https://dev.parse-health.org/shiny/kesernetwork/).\n\n",
+    "supporting": [
+      "2_ARCH_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,24 @@
+---
+title: "DATA"
+jupyter: python3
+---
+
+
+## MGB
+#### Exploratory analysis
+##### Demographics
+
+The total number of patients with at least one PheCode corresponding to suicide ideation or attempt (Phe- Codes 297.1 and 297.2) is 4868, which corresponds to 4.04% of the MGB Biobank cohort.
+
+<img  class="centered-image" src='images/data1.png'  width="70%" height="70%"> 
+
+<img  class="centered-image" src='images/data2.png' width="70%" height="70%"> 
+
+We select patients with PheCodes in the range 295:307 to broadly define a “mental health issues” category.
+The total number of patients with at least one PheCode corresponding to a mental health issue is 60820, which corresponds to 50.47% of the MGB Biobank cohort.
+
+We display the most frequent metal health codes present in the next figure.
+
+<img  class="centered-image" src='images/data3.png'  width="80%" height="80%"> 
+   
+<img  class="centered-image" src='images/data4.png'  width="70%" height="70%"> 

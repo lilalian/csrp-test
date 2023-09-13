@@ -1,0 +1,11 @@
+{
+  "hash": "b5872de4d0c5f303616ce0c3569f39be",
+  "result": {
+    "markdown": "---\ntitle: 'Aim 3: Clinical Prediction'\n---\n\n### Develop novel clinical prediction methodologies \n\nTo develop and evaluate algorithms for: \n\n  1. Automated feature selection and engineering\n  2. Suicide risk prediction \n  3. Predicting heterogeneous treatment effects via causal modeling \n  4. Recalibrated risk estimates via semi-supervised learning\n  5. Transfer learning and collaborative co-training strategies to enhance risk prediction to improve generalizability\n\n",
+    "supporting": [
+      "Aim3_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "hash": "d59e2fc55361994e60cd0f0973a1574f",
+  "result": {
+    "markdown": "---\ntitle: Federated Transfer Learning\n---\n\n<img  class=\"centered-image\" src='/images/survmaxmin.png' width=\"100%\" height=\"100%\"> \n\n\nClick [here](https://shiny.parse-health.org/SurvMaximin/) to load the SurvmaxMin web app.\n\n",
+    "supporting": [
+      "1_survmaxmin_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

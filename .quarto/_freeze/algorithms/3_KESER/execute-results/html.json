@@ -1,0 +1,14 @@
+{
+  "hash": "048dd79535a3973ae8eedb2908cab4e3",
+  "result": {
+    "markdown": "---\ntitle: \"Knowledge Network\"\njupyter: python3\n---\n\n\n\n![](/images/kesernetwork.png)\n\nClick [here](https://dev.parse-health.org/shiny/kesernetwork/) to see the web app.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

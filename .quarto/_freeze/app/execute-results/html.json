@@ -1,0 +1,11 @@
+{
+  "hash": "04fea30e6b207e42f4f2d2d47148527f",
+  "result": {
+    "markdown": "---\ntitle: \"APP\"\ndescription: |\n  Description of app, edit in `app.qmd`.\ncategories:\n  - Diseases\n  - Lab\n  - Adverse Effect\nauthor: Name\ndate: 04/18/2023\nimage: images/mainchart.jpg\ntoc: true\n---\n\nPlease complete the details in `app.qmd`.\n\n<!-- ![](/images/mainchart.jpg) -->\n\nB'nibh' b'ac'. B'quis' b'ac' b'ad' b'leo' b'eu' b'ut' b'enim' b'a' b'a' b'a' b'a'. B'ante' b'eu' b'a' b'velit' b'ad' b'purus' b'a' b'pellentesque' b'dis' b'a' b'a'. B'odio' b'ad' b'a' b'a' b'a' b'eu' b'a' b'platea' b'a' b'enim'. B'duis' b'eu' b'at' b'a' b'a' b'magnis'. B'nisl' b'et' b'mi' b'arcu' b'sit'. B'nibh' b'mi'. B'eros' b'et' b'gravida' b'porta' b've'. B'orci' b'in' b'id' b'a' b'a' b'aenean' b'a' b'mattis' b'a' b'mi' b'a' b'eu' b'hac' b'sit' b'a' b'duis' b'a' b'a' b'auctor' b'sed'. B'duis' b'eu' b'a' b'a'. B'arcu' b'mi' b'a'. B'amet' b'mi'. B'nisl' b'at' b'a' b'a' b'a' b'a' b'dui'. B'quis' b'in' b'a' b'urna' b'arcu' b'a' b'donec'. B'quam' b'ad' b'a' b'a' b'et' b'a'. \n\n::: {.article-btn}\n[Back to Landing Page](index.qmd)\n:::\n\n",
+    "supporting": [
+      "app_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

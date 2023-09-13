@@ -1,29 +1,77 @@
 {
-  "index.qmd": {
-    "index.html": "e559ddb8"
-  },
-  "about.qmd": {
-    "about.html": "a2920ebd"
+  "data.qmd": {
+    "data.html": "5e756286"
   },
   "aims/Aim1.qmd": {
-    "Aim1.html": "ca6f7a96"
+    "Aim1.html": "6a691ade"
   },
   "aims/Aim2.qmd": {
-    "Aim2.html": "1e3d9e72"
+    "Aim2.html": "76c136a2"
   },
-  "apps/index.qmd": {
-    "index.html": "a3b88da0"
+  "aims/Aim3.qmd": {
+    "Aim3.html": "2db7d533"
   },
-  "apps/posts/app1/app1.qmd": {
-    "app1.html": "e5425dae"
+  "aims/Aim4.qmd": {
+    "Aim4.html": "60d10696"
   },
-  "apps/posts/app2/app2.qmd": {
-    "app2.html": "802cc110"
+  "apps/1_survmaxmin.qmd": {
+    "1_survmaxmin.html": "ac1acaf8"
   },
-  "apps/posts/app3/app3.qmd": {
-    "app3.html": "2f2b27c3"
+  "apps/2_ARCH.qmd": {
+    "2_ARCH.html": "81a2df0f"
   },
-  "latest-apps.qmd": {
-    "latest-apps.html": "7c5d04ca"
+  "apps/3_KESER.qmd": {
+    "3_KESER.html": "144cadad"
+  },
+  "methodology.qmd": {
+    "methodology.html": "a8724ce8"
+  },
+  "tests/00_some.thing.ipynb": {
+    "00_some.thing.html": "567235d8"
+  },
+  "tests/01_everything.ipynb": {
+    "01_everything.html": "62cf4207"
+  },
+  "tests/2020-01-14-test-markdown-post.md": {
+    "2020-01-14-test-markdown-post.html": "b5b40551"
+  },
+  "tests/2020-02-20-test.ipynb": {
+    "2020-02-20-test.html": "8fed209b"
+  },
+  "tests/2020-09-01-fastcore.ipynb": {
+    "2020-09-01-fastcore.html": "1df2f3d7"
+  },
+  "index.qmd": {
+    "index.html": "791f50f8"
+  },
+  "algorithms/1_survmaxmin.qmd": {
+    "1_survmaxmin.html": "3bd30bb3"
+  },
+  "algorithms/2_ARCH.qmd": {
+    "2_ARCH.html": "cb1ca668"
+  },
+  "algorithms/3_KESER.qmd": {
+    "3_KESER.html": "442bcaf6"
+  },
+  "docs/aims/Aim1.qmd": {
+    "Aim1.html": "879de8bd"
+  },
+  "docs/aims/Aim2.qmd": {
+    "Aim2.html": "53d0796e"
+  },
+  "docs/aims/Aim3.qmd": {
+    "Aim3.html": "c1ac9df5"
+  },
+  "docs/aims/Aim4.qmd": {
+    "Aim4.html": "28cf00f3"
+  },
+  "about.qmd": {
+    "about.html": "46e70ff0"
+  },
+  "algorithms/3_KESER.Rmd": {
+    "3_KESER.html": "4457a2c1"
+  },
+  "app.qmd": {
+    "app.html": "c6f11439"
   }
 }
